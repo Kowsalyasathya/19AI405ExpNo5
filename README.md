@@ -67,9 +67,6 @@ def SimpleHillClimbing():
 SimpleHillClimbing()
 ```
 
-**Developed By: Thiyagarajan A**<br>
-**Register No: 212222240110**
-
 <table>
 <tr>
 <td valign=top>
